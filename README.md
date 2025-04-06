@@ -62,7 +62,7 @@ php artisan key:generate
 ### 5. Rode as migrations, seeds e factories
 
 ```bash
-php artisan migrate --seed
+php artisan migrate:fresh --seed --force
 ```
 
 ### 6. Inicie o servidor
