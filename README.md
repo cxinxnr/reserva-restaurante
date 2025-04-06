@@ -80,7 +80,7 @@ A aplicação estará disponível em [http://localhost:8000](http://localhost:80
 
 Um usuário de teste é criado automaticamente:
 
-- **Email:** `admin@admin.com`
+- **Email:** `admin@teste.com`
 - **Senha:** `password`
 
 ---
